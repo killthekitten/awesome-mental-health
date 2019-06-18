@@ -62,6 +62,7 @@ Articles, posts and papers on mental health in technology.
 * [Software Developer Careers Considered Harmful](http://www.methodsandtools.com/archive/zenprogrammer.php) - By Christian Grobmeier.
 * [Sorry, Not Sorry - How To Advocate For Your Mental Health At Work](https://www.thriveglobal.com/stories/38629-how-to-advocate-for-yourself-at-work) - By Jessica DiVento.
 * [Taming Anxiety And Hacking Your Way Into Productivity](https://hackernoon.com/taming-anxiety-and-hacking-your-way-into-productivity-1c9258b8380a) - By André Pena.
+* [The Depression Thing](https://zachholman.com/posts/the-depression-thing) - By Zach Holman.
 * [The Programmer’s Great Clinical Depression](https://simpleprogrammer.com/programmers-great-clinical-depression) - By Jason Lowenthal.
 * [Tips For Dealing With Developer Stress](https://www.airpair.com/javascript/posts/tips-for-dealing-with-developer-stress) - By Rich McLaughlin.
 * [Tips To Maintain Your Mental Health As A Software Developer](https://www.brightdevelopers.com/tips-maintain-mental-health-software-developer/) - By Steven To.
